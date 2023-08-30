@@ -21,7 +21,7 @@ class Curriculo extends StatelessWidget {
           child: Row(
             children: [
               Text(
-                "Tiago Rafael Oliveira das Virgens",
+                "Tiago Rafael Oliveira das Virgens, 21",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               )
             ],
